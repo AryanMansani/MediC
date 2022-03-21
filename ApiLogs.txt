@@ -1,0 +1,180 @@
+Tennant Name -   DefaultTenant
+
+HTTp REq - 
+User Key - c4SWjmfBhUgiRqbaVE1x1zNsEl1MVojZhrRM8r8EpiqJ4
+
+Client ID - 8DEv1AMNXczW3y4U15LL3jYf62jK93n5
+
+
+
+Response - 
+ 
+access token - "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJUTkVOMEl5T1RWQk1UZEVRVEEzUlRZNE16UkJPVU00UVRRM016TXlSalUzUmpnMk4wSTBPQSJ9.eyJodHRwczovL3VpcGF0aC9lbWFpbCI6ImFyeWFuLm1hbnNhbmkuYnRlY2gyMDE5QHNpdHB1bmUuZWR1LmluIiwiaHR0cHM6Ly91aXBhdGgvZW1haWxfdmVyaWZpZWQiOnRydWUsImlzcyI6Imh0dHBzOi8vYWNjb3VudC51aXBhdGguY29tLyIsInN1YiI6Im9hdXRoMnxVaVBhdGgtQUFEVjJ8MjRkOTA1ZTItZWNkMi00N2MxLWJmMWYtMjRmMzFlZDc2Y2UxIiwiYXVkIjpbImh0dHBzOi8vb3JjaGVzdHJhdG9yLmNsb3VkLnVpcGF0aC5jb20iLCJodHRwczovL3VpcGF0aC5ldS5hdXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNjQ1NjA5NzQ2LCJleHAiOjE2NDU2OTYxNDYsImF6cCI6IjhERXYxQU1OWGN6VzN5NFUxNUxMM2pZZjYyaks5M241Iiwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCBvZmZsaW5lX2FjY2VzcyJ9.SizqwaNNsR56jXBwPFZi7YL28YWSzqFBtptU0rT5r4Ye5UP1HPnFxNFsAzn0xwnsXmx-1XVLwDE3_C92J_awZBleVwFH0VXE4Ua4X3L8UnW5Q7RsbbNr8C61S8hIIl2fnOyr9K3tPH6RAEnlJK5YeMRLTYn9qav1yZkeIULhMjkiBvL-vcNwEeGyJjUBRR0-WmKDusEZvGwYg5lHxXGTRBwegMTzujwKR8TCKQ-eNsR5rqBNWGtEVQTwrBP3RtJZtMpkwh4z-7B3M2Mne_ugIavEUXc6UHdAHigPpOEzKDaFtSkR1cQOXQY11Z7-Beg6OMJbBQM0ygJMw07WMdZkfw"
+
+
+
+id_token -    "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJUTkVOMEl5T1RWQk1UZEVRVEEzUlRZNE16UkJPVU00UVRRM016TXlSalUzUmpnMk4wSTBPQSJ9.eyJodHRwczovL2Nsb3VkcnBhL2Nvbm5lY3Rpb24iOiJnb29nbGUtb2F1dGgyIiwibmlja25hbWUiOiJhcnlhbi5tYW5zYW5pLmJ0ZWNoMjAxOSIsIm5hbWUiOiJhcnlhbi5tYW5zYW5pLmJ0ZWNoMjAxOSIsInBpY3R1cmUiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci85Y2FjMmFlOTliN2UzZTcyNjBlZDliZjA3ZDYyYmQxMT9zPTQ4MCZyPXBnJmQ9aHR0cHMlM0ElMkYlMkZjZG4uYXV0aDAuY29tJTJGYXZhdGFycyUyRmFyLnBuZyIsInVwZGF0ZWRfYXQiOiIyMDIyLTAyLTIzVDA5OjQ4OjExLjUyNloiLCJlbWFpbCI6ImFyeWFuLm1hbnNhbmkuYnRlY2gyMDE5QHNpdHB1bmUuZWR1LmluIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImlzcyI6Imh0dHBzOi8vYWNjb3VudC51aXBhdGguY29tLyIsInN1YiI6Im9hdXRoMnxVaVBhdGgtQUFEVjJ8MjRkOTA1ZTItZWNkMi00N2MxLWJmMWYtMjRmMzFlZDc2Y2UxIiwiYXVkIjoiOERFdjFBTU5YY3pXM3k0VTE1TEwzallmNjJqSzkzbjUiLCJpYXQiOjE2NDU2MDk3NDYsImV4cCI6MTY0NTY0NTc0Nn0.nzhzP9unry3lp2TEubLfTieaDNRUeFThJZ8B1VPT5Ggg3viW1fD-KFc34W9TXyDV4jTz6tQBOC4Mu3sPdYQggbRT3p3Oa6v7CUKFUvbRCHHKT3BMj39BFraF9AS7MU8uDjRVEoYR3wlctzzbY8PLfcaPk3Vq9yJdxRxu4XAme-eUal8vcl_Yr1kSybJ7_SQR5stHnV208pwRhLdWJzbfFloaqtM3oLZ1H2_q6aouwrEbL86x5XG9s_wh9MYqmpPNRQ1HRRtPfUElFKrSXlRYdSmfVK1oSF5FBDZkRzOGp_KMFTqp7acdC-llXJZ_TeBJh7F6GTTCAPE6jmhjJLczbw",
+
+
+
+
+{
+    "access_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJUTkVOMEl5T1RWQk1UZEVRVEEzUlRZNE16UkJPVU00UVRRM016TXlSalUzUmpnMk4wSTBPQSJ9.eyJodHRwczovL3VpcGF0aC9lbWFpbCI6ImFyeWFuLm1hbnNhbmkuYnRlY2gyMDE5QHNpdHB1bmUuZWR1LmluIiwiaHR0cHM6Ly91aXBhdGgvZW1haWxfdmVyaWZpZWQiOnRydWUsImlzcyI6Imh0dHBzOi8vYWNjb3VudC51aXBhdGguY29tLyIsInN1YiI6Im9hdXRoMnxVaVBhdGgtQUFEVjJ8MjRkOTA1ZTItZWNkMi00N2MxLWJmMWYtMjRmMzFlZDc2Y2UxIiwiYXVkIjpbImh0dHBzOi8vb3JjaGVzdHJhdG9yLmNsb3VkLnVpcGF0aC5jb20iLCJodHRwczovL3VpcGF0aC5ldS5hdXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNjQ1NjA5NzQ2LCJleHAiOjE2NDU2OTYxNDYsImF6cCI6IjhERXYxQU1OWGN6VzN5NFUxNUxMM2pZZjYyaks5M241Iiwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCBvZmZsaW5lX2FjY2VzcyJ9.SizqwaNNsR56jXBwPFZi7YL28YWSzqFBtptU0rT5r4Ye5UP1HPnFxNFsAzn0xwnsXmx-1XVLwDE3_C92J_awZBleVwFH0VXE4Ua4X3L8UnW5Q7RsbbNr8C61S8hIIl2fnOyr9K3tPH6RAEnlJK5YeMRLTYn9qav1yZkeIULhMjkiBvL-vcNwEeGyJjUBRR0-WmKDusEZvGwYg5lHxXGTRBwegMTzujwKR8TCKQ-eNsR5rqBNWGtEVQTwrBP3RtJZtMpkwh4z-7B3M2Mne_ugIavEUXc6UHdAHigPpOEzKDaFtSkR1cQOXQY11Z7-Beg6OMJbBQM0ygJMw07WMdZkfw",
+    "id_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJUTkVOMEl5T1RWQk1UZEVRVEEzUlRZNE16UkJPVU00UVRRM016TXlSalUzUmpnMk4wSTBPQSJ9.eyJodHRwczovL2Nsb3VkcnBhL2Nvbm5lY3Rpb24iOiJnb29nbGUtb2F1dGgyIiwibmlja25hbWUiOiJhcnlhbi5tYW5zYW5pLmJ0ZWNoMjAxOSIsIm5hbWUiOiJhcnlhbi5tYW5zYW5pLmJ0ZWNoMjAxOSIsInBpY3R1cmUiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci85Y2FjMmFlOTliN2UzZTcyNjBlZDliZjA3ZDYyYmQxMT9zPTQ4MCZyPXBnJmQ9aHR0cHMlM0ElMkYlMkZjZG4uYXV0aDAuY29tJTJGYXZhdGFycyUyRmFyLnBuZyIsInVwZGF0ZWRfYXQiOiIyMDIyLTAyLTIzVDA5OjQ4OjExLjUyNloiLCJlbWFpbCI6ImFyeWFuLm1hbnNhbmkuYnRlY2gyMDE5QHNpdHB1bmUuZWR1LmluIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImlzcyI6Imh0dHBzOi8vYWNjb3VudC51aXBhdGguY29tLyIsInN1YiI6Im9hdXRoMnxVaVBhdGgtQUFEVjJ8MjRkOTA1ZTItZWNkMi00N2MxLWJmMWYtMjRmMzFlZDc2Y2UxIiwiYXVkIjoiOERFdjFBTU5YY3pXM3k0VTE1TEwzallmNjJqSzkzbjUiLCJpYXQiOjE2NDU2MDk3NDYsImV4cCI6MTY0NTY0NTc0Nn0.nzhzP9unry3lp2TEubLfTieaDNRUeFThJZ8B1VPT5Ggg3viW1fD-KFc34W9TXyDV4jTz6tQBOC4Mu3sPdYQggbRT3p3Oa6v7CUKFUvbRCHHKT3BMj39BFraF9AS7MU8uDjRVEoYR3wlctzzbY8PLfcaPk3Vq9yJdxRxu4XAme-eUal8vcl_Yr1kSybJ7_SQR5stHnV208pwRhLdWJzbfFloaqtM3oLZ1H2_q6aouwrEbL86x5XG9s_wh9MYqmpPNRQ1HRRtPfUElFKrSXlRYdSmfVK1oSF5FBDZkRzOGp_KMFTqp7acdC-llXJZ_TeBJh7F6GTTCAPE6jmhjJLczbw",
+    "scope": "openid profile email offline_access",
+    "expires_in": 86400,
+    "token_type": "Bearer"
+}
+
+
+
+
+Get FOlder response -
+
+
+
+
+{
+    "@odata.context": "https://cloud.uipath.com/collesftinfz/DefaultTenant/orchestrator_/odata/$metadata#Folders",
+    "@odata.count": 2,
+    "value": [
+        {
+            "Key": "7ef32527-d2cf-489c-b998-4d944e10e574",
+            "DisplayName": "Shared",
+            "FullyQualifiedName": "Shared",
+            "FullyQualifiedNameOrderable": "Shared",
+            "Description": null,
+            "ProvisionType": "Automatic",
+            "PermissionModel": "FineGrained",
+            "ParentId": null,
+            "ParentKey": null,
+            "IsActive": true,
+            "FeedType": "Processes",
+            "Id": 2950530
+        },
+        {
+            "Key": "87cedd16-7c10-4db2-9584-e856f5e00592",
+            "DisplayName": "Sample",
+            "FullyQualifiedName": "Sample",
+            "FullyQualifiedNameOrderable": "Sample",
+            "Description": null,
+            "ProvisionType": "Automatic",
+            "PermissionModel": "FineGrained",
+            "ParentId": null,
+            "ParentKey": null,
+            "IsActive": true,
+            "FeedType": "Processes",
+            "Id": 3009075
+        }
+    ]
+}
+
+
+
+Get Process response - 
+
+
+{
+    "@odata.context": "https://cloud.uipath.com/collesftinfz/DefaultTenant/orchestrator_/odata/$metadata#Processes",
+    "@odata.count": 1,
+    "value": [
+        {
+            "IsActive": false,
+            "SupportsMultipleEntryPoints": true,
+            "MainEntryPointPath": "Main.xaml",
+            "RequiresUserInteraction": true,
+            "IsAttended": false,
+            "TargetFramework": "Legacy",
+            "Title": "BlankProcess",
+            "Version": "1.0.1",
+            "Key": "BlankProcess:1.0.1",
+            "Description": "Blank Process",
+            "Published": "2022-02-22T15:15:23.2666667Z",
+            "IsLatestVersion": false,
+            "OldVersion": null,
+            "ReleaseNotes": null,
+            "Authors": "mrary",
+            "ProjectType": "Process",
+            "Tags": "VisualBasic VB UiPathStudioProcess",
+            "IsCompiled": false,
+            "LicenseUrl": null,
+            "ProjectUrl": null,
+            "Id": "BlankProcess",
+            "Arguments": {
+                "Input": null,
+                "Output": null
+            },
+            "ResourceTags": [
+                {
+                    "Name": "visualbasic",
+                    "Value": ""
+                },
+                {
+                    "Name": "vb",
+                    "Value": ""
+                },
+                {
+                    "Name": "uipathstudioprocess",
+                    "Value": ""
+                }
+            ]
+        }
+    ]
+}
+
+
+
+release response - 
+
+
+
+{
+    "@odata.context": "https://cloud.uipath.com/collesftinfz/DefaultTenant/orchestrator_/odata/$metadata#Releases",
+    "@odata.count": 1,
+    "value": [
+        {
+            "Key": "7408cfa7-b775-4db9-afb7-b76a1b0cecbf",
+            "ProcessKey": "BlankProcess",
+            "ProcessVersion": "1.0.1",
+            "IsLatestVersion": false,
+            "IsProcessDeleted": false,
+            "Description": "Blank Process",
+            "Name": "BlankProcess",
+            "EnvironmentId": null,
+            "EnvironmentName": "",
+            "EntryPointId": 1001711,
+            "InputArguments": null,
+            "ProcessType": "Process",
+            "SupportsMultipleEntryPoints": true,
+            "RequiresUserInteraction": true,
+            "IsAttended": false,
+            "IsCompiled": false,
+            "AutoUpdate": false,
+            "FeedId": "60211034-3764-43a3-a0d1-11380473dc4f",
+            "JobPriority": "Normal",
+            "SpecificPriorityValue": 50,
+            "OrganizationUnitId": 3009075,
+            "OrganizationUnitFullyQualifiedName": "Sample",
+            "TargetFramework": "Legacy",
+            "LastModificationTime": null,
+            "LastModifierUserId": null,
+            "CreationTime": "2022-02-22T15:46:29.043Z",
+            "CreatorUserId": 4508528,
+            "Id": 527904,
+            "Arguments": {
+                "Input": "[]",
+                "Output": "[]"
+            },
+            "ProcessSettings": null,
+            "Tags": []
+        }
+    ]
+}
+
+
+
+/odata/Jobs/UiPath.Server.Configuration.OData.StartJobs
+
+
+
+

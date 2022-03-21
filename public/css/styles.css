@@ -1,0 +1,22 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+     background-color: #000000;
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+.starter{
+
+  margin-top: 200;
+
+}

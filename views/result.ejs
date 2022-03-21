@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Report Result</title>
+        <link rel="stylesheet" type="text/css" href="css/result.css">
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+    </head>
+    <body>
+    <header>
+        <div class="mainheader">
+            <nav>
+                <a href="@">home</a>
+                <a href="@">services</a>
+                <a href="@">about</a>
+                <a href="@">contact</a>
+
+            </nav>
+
+            <div class="menubtn">
+                <button> HelpLine</button>
+            </div>
+
+        </div>
+        <main>
+            <section class="left-sec">
+               <h4>Hello <%= name %>,</h4>
+               <br>
+               <br>
+                <h4>HbA1C: <%= hba1c %></h4>
+                <h4>Cholesterol: <%= chol %></h4>
+                <h4>Triglycerides: <%= trig %></h4>
+                <h4>HDL: <%= hdl %></h4>
+                <h4>LDL: <%= ldl %></h4>
+                <br>
+                <h1><%= text %></h1>
+                <br>
+                <h1><%= text2 %></h1>
+
+            </section>
+
+            <section class="right-sec">
+                <figure>
+                    <img src="img2.png"
+                </figure>
+            </section>
+        </main>
+    </header>
+
+
+    </body>
+</html>

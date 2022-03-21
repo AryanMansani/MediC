@@ -1,0 +1,25 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uipath/robot": "^1.2.6",
+    "body-parser": "^1.19.2",
+    "ejs": "^3.1.6",
+    "es": "^0.8.0",
+    "excel4node": "^1.7.2",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.2.7",
+    "multer": "^1.4.4",
+    "request": "^2.88.2",
+    "xlsx": "^0.18.2",
+    "xlx": "^1.0.0"
+  }
+}
