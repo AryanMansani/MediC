@@ -1,0 +1,66 @@
+
+<!-- doctors section starts  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patient List</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="/css/patientListStyle.css">
+
+</head>
+<body>
+<!-- header section starts  -->
+
+<header class="header">
+
+    <a href="#" class="logo"><img src="/image/logo.png" width="200" height="50" style="float:left"></a>
+
+    <nav class="navbar">
+        <a href="#">Dr. <%= user %></a>
+        <a href="#">E-Store</a>
+        <a href="#">AI Nutritionist</a>
+        <a href="#">AI Therapist</a>
+
+    </nav>
+
+
+    <div id="menu-btn" class="fas fa-bars"></div>
+
+</header>
+
+<!-- header section ends -->
+
+
+<section class="doctors" id="doctors">
+
+    <h1 class="heading"> Patient List </span> </h1>
+    <br><br>
+    <div class="box-container">
+
+      <% patients.forEach(function(pat){ %>
+
+
+
+        <div class="box">
+            <a href="#" class="fas fa-user fa-10x" style="color: black;"></a>
+            <h3>Patient Name - <%= pat.name %></h3>
+            <h4>Appointment Date - <%= pat.date %></h5>
+            <h4>Appointment Time - <%= pat.time %></h5>
+              <a href="/cancel/<%=pat.id%>">Cancel</a>
+
+        </div>
+
+        <% }) %>
+
+
+    </div>
+</section>
+
+<!-- doctors section ends -->

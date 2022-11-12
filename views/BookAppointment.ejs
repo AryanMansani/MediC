@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="/css/docHPStyle.css">
+
+</head>
+
+<body>
+
+    <!-- header section starts  -->
+
+    <header class="header">
+
+        <a href="#" class="logo"><img src="/image/logo.png" width="200" height="50" style="float:left"></a>
+
+        <nav class="navbar">
+            <a href="">Check Report</a>
+            <a href="#book">Book appointment</a>
+            <a href="#blogs">E-Store</a>
+            <a href="#blogs">AI Nutritionist</a>
+            <a href="#blogs">AI Therapist</a>
+            <a href="#">Login</a>
+        </nav>
+
+
+        <div id="menu-btn" class="fas fa-bars"></div>
+
+    </header>
+
+    <!-- header section ends -->
+
+
+
+    <!-- booking section starts   -->
+
+    <section class="book" id="book">
+
+        <h1 class="heading"> <span>Book </span> Now </h1>
+
+        <div class="row">
+
+            <div class="image">
+                <img src="/image/Medical prescription-amico.svg" alt="">
+            </div>
+
+            <form action="/book" method="post" name="book">
+                <h3>book appointment</h3>
+                <input type="email" placeholder="Email" class="box" name="email">
+                <input type="date" class="box" name="date">
+                <input type="time" class="box" name="time">
+                <div class="paybtn"><b>Pay Now</b> </div>
+                <div class="Popup">
+                    <div class="modal">
+                        <div class="top-content">
+                            <div class="left-text">
+                                Medicy
+                            </div>
+                            <span class="close-icon"><i class="fas fa-times"></i></span>
+                            <div class="fas fa-check-double fa-10x" style="color: greenyellow;"></div>
+                        </div>
+                        <div class="bottom-content">
+                            <div class="text">
+                                Your Booking Has Been Confirmed
+                            </div>
+                            <p>
+                                Kindly Check Your Registered Email For Payment Receipt.
+                            </p>
+                            <div class="close-btn">
+                                <button>Thank You</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <script>
+                        $('.paybtn').click(function () {
+
+                            $('.modal').toggleClass("show");
+                            $('.paybtn').addClass("disabled");
+                            document.forms["book"].submit();
+                        });
+                        $('.close-icon').click(function () {
+                            $('.modal').toggleClass("show");
+                            $('.paybtn').removeClass("disabled");
+                        });
+                        $('.close-btn').click(function () {
+                            $('.modal').toggleClass("show");
+                            $('.paybtn').removeClass("disabled");
+                        });
+                    </script>
+                </div>
+
+
+            </form>
+        </div>
+
+    </section>
+
+    <!-- booking section ends -->
+
+
+
+
+    <!-- footer section starts  -->
+
+    <section class="footer">
+
+        <div class="box-container">
+
+            <div class="box">
+                <h3>quick links</h3>
+                <a href="#"> <i class="fas fa-chevron-right"></i> Home </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> Services </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> About </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> E - Store </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> Book appointment</a>
+            </div>
+
+            <div class="box">
+                <h3>our services</h3>
+
+                <a href="#"> <i class="fas fa-chevron-right"></i> Speed & Precision in Medical
+                    Diagnostics </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> Two Step Scheduling </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> Report Scanner </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> E Store </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> AI Based Nutriotinist </a>
+                <a href="#"> <i class="fas fa-chevron-right"></i> AI Based Therapist </a>
+            </div>
+
+            <div class="box">
+                <h3>contact info</h3>
+                <a href="#"> <i class="fas fa-phone"></i> 620 - 222 3030</a>
+                <a href="#"> <i class="fas fa-phone"></i> 620 - 222 3131 </a>
+                <a href="#"> <i class="fas fa-envelope"></i>helpdesk@medicy.org </a>
+                <a href="#"> <i class="fas fa-map-marker-alt"> 221B, Bakers Street</i> </a>
+            </div>
+
+            <div class="box">
+                <h3>follow us</h3>
+                <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
+                <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
+                <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
+                <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+
+            </div>
+
+        </div>
+
+
+    </section>
+
+    <!-- footer section ends -->
+
+    <!-- custom js file link  -->
+    <!-- <script src="js/script.js"></script> -->
+
+</body>
+
+</html>
